@@ -27,12 +27,6 @@
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-144px.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
       "src": "/icons/icon-152px.png",
       "sizes": "152x152",
       "type": "image/png",
